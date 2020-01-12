@@ -1,0 +1,26 @@
+.jumbotron {
+  background-image: url('/assets/img/bg-jumbotron.jpg');
+  min-height: 42rem;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+  text-align: center;
+  background-position: center;
+}
+
+#content {
+  min-height: 40rem;
+  background-image: url(/assets/img/bg-2.jpg); 
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#contact {
+  min-height: 42rem;
+}
